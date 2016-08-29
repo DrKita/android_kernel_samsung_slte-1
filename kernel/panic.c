@@ -22,6 +22,7 @@
 #include <linux/sysrq.h>
 #include <linux/init.h>
 #include <linux/nmi.h>
+#include <linux/console.h>
 #include "sched/sched.h"
 #ifdef CONFIG_SEC_DEBUG_SUBSYS
 #include <linux/sec_debug.h>
